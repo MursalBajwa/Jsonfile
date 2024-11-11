@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "mursal",
+        "text": "This product is great",
+        "rating" : 4
+    },
+    {
+        "Name": "Muzamil",
+        "text": "This product is amazing",
+        "rating" : 2
+    }
+]
